@@ -1,7 +1,7 @@
 # LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment
 
 <p align="center">
-  <a href="https://example.com"> <img src="https://img.shields.io/badge/Paper-Preprint-blue" alt="paper"/> </a>
+  <a href="http://arxiv.org/abs/2604.06925"> <img src="https://img.shields.io/badge/Paper-Preprint-blue" alt="paper"/> </a>
   <a href="https://joker-hfy.github.io/LungCURE/"> <img src="https://img.shields.io/badge/Homepage-Website-green" alt="homepage"/> </a>
   <a href="https://github.com/Joker-hfy/LungCURE"> <img src="https://img.shields.io/badge/GitHub-Repository-purple" alt="github"/> </a>
   <a href="https://huggingface.co/datasets/Fine2378/LungCURE"> <img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow" alt="huggingface"/> </a>
@@ -455,14 +455,18 @@ File naming convention:
 ---
 
 ## Citation
-```bash
-# TODO: 更换引用
-```
 
 If you use this repository in your research, please cite:
 
 ```bibtex
-@misc{
+@misc{hao2026lungcurebenchmarkingmultimodalrealworld,
+      title={LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment}, 
+      author={Fangyu Hao and Jiayu Yang and Yifan Zhu and Zijun Yu and Qicen Wu and Wang Yunlong and Jiawei Li and Yulin Liu and Xu Zeng and Guanting Chen and Shihao Li and Zhonghong Ou and Meina Song and Mengyang Sun and Haoran Luo and Yu Shi and Yingyi Wang},
+      year={2026},
+      eprint={2604.06925},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2604.06925}, 
 }
 ```
 
